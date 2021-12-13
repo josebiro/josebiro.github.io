@@ -1,10 +1,30 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the inaugural post, and as such it is a test. There's really not mucy to see here, but I will be playing with some things.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Headers!
+So it turns out you can do headers.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Nested Headers!
+And nested at that.
+
+> If your SRE practice doesn't have executive sponsorship for the issues that come out of your incident response review process, your business doesn't really care about reliability. That could be orthogonal to whether or not your customers care about reliability.
+
+This is a self referential quote. Just to test what quotes look like. 
+
+And this text is **bold**! Or _italic_ ... you know. Just 'cuz. 
+
+Apparently you can do embedded images? I'd also like to know how that works...
+![Source: https://realpython.com/python-testing/]({{site.baseurl}}/https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg)
+
+It said "URL" so I assume that means any URL... let's see :-)
+
+anyway, this has been fun. More soon.
+
+
+
+
