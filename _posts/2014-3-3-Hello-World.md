@@ -20,6 +20,7 @@ And this text is **bold**! Or _italic_ ... you know. Just 'cuz.
 
 Apparently you can do embedded images? I'd also like to know how that works...
 ![Source: https://realpython.com/python-testing/]({{site.baseurl}}/https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg)
+(Update: LoL, it didn't work... seems about right.)
 
 It said "URL" so I assume that means any URL... let's see :-)
 
